@@ -2,7 +2,7 @@
 title: "Daily Tasks"
 author: "G8 Stats"
 date: "October 30, 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
